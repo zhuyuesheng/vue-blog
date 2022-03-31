@@ -1,5 +1,5 @@
 # vue-blog
-vue博客前台
+博客页面
 
 ![image1](https://github.com/zhuyuesheng/vue-blog/blob/master/img-store/1.png)
 ![image2](https://github.com/zhuyuesheng/vue-blog/blob/master/img-store/2.png)
