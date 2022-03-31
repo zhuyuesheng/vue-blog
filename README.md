@@ -1,5 +1,5 @@
 # vue-blog
-
+https://github.com/zhuyuesheng/vue-blog/blob/master/img-store/1.png
 vue博客前台
 
 ## 一些常用命令
