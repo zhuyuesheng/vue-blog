@@ -1,6 +1,8 @@
 # vue-blog
 vue博客前台
-https://github.com/zhuyuesheng/vue-blog/blob/master/img-store/1.png
+
+![前台图片]("https://github.com/zhuyuesheng/vue-blog/blob/master/img-store/1.png")
+
 
 ## 一些常用命令
 
